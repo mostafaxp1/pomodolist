@@ -91,10 +91,10 @@ src/
 ## 📸 Screenshots
 
 ### Main Screen  
-![Main Screen](/screenshots/screenshot.png)
+![Main Screen](/screenshot.png)
 
 ### Task Management  
-![Task Management](/screenshots/screenshot_2.png)
+![Task Management](/screenshot_2.png)
 
 ---
 
