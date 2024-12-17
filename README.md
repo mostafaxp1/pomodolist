@@ -51,7 +51,7 @@ Follow these steps to set up **PomodoList** on your local machine:
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/your-username/pomodolist.git
+git clone https://github.com/mostafaxp1/pomodolist.git
 cd pomodolist
 ```
 
